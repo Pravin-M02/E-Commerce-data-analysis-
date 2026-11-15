@@ -1,0 +1,27 @@
+﻿order_id,customer_id,order_date,order_status,sales_channel,shipping_city,payment_method,shipping_fee,discount_pct
+O00001,C0286,2024-10-30 00:00:00,Returned,Website,Mumbai,UPI,80,0.15
+O00002,C0057,2024-03-09 00:00:00,Delivered,Website,Bengaluru,UPI,0,0
+O00003,C0222,2024-12-26 00:00:00,Delivered,Website,Kochi,Debit Card,0,0
+O00004,C0303,2025-08-24 00:00:00,Delivered,Marketplace,,Credit Card,40,0
+O00005,C0163,2024-08-07 00:00:00,Delivered,Website,Lucknow,Credit Card,0,0.1
+O00006,C0019,2025-12-04 00:00:00,Shipped,Mobile App,Kolkata,UPI,60,0.05
+O00007,C0370,2025-07-28 00:00:00,Delivered,Website,Coimbatore,Credit Card,60,0
+O00008,C0264,2025-08-07 00:00:00,Returned,website ,Bengaluru,Cash on Delivery,0,0.2
+O00009,C0282,2024-06-09 00:00:00,Delivered,Marketplace,Delhi,UPI,0,0
+O00010,C0113,2025-11-11 00:00:00,Delivered,Website,Ahmedabad,UPI,60,0.05
+O00011,C0488,2024-03-29 00:00:00,Delivered,Marketplace,Coimbatore,Debit Card,0,0.2
+O00012,C0327,2025-11-18 00:00:00,Delivered,Mobile App,Kolkata,Net Banking,,0.05
+O00013,C0030,2025-08-07 00:00:00,Delivered,Website,Ahmedabad,Debit Card,80,0.1
+O00014,C0135,2025-08-11 00:00:00,Delivered,Marketplace,Hyderabad,UPI,0,0
+O00015,C0067,2024-06-07 00:00:00,Delivered,Website,Chennai,UPI,40,0.15
+O00016,C0065,2025-05-03 00:00:00,Delivered,Marketplace,Delhi,Cash on Delivery,0,0.05
+O00017,C0292,2024-11-19 00:00:00,Delivered,Website,Coimbatore,UPI,60,0.15
+O00018,C0025,2025-09-01 00:00:00,Delivered,Marketplace,Delhi,Debit Card,0,0
+O00019,C0037,2025-01-15 00:00:00,Delivered,Website,Pune,Credit Card,100,0.05
+O00020,C0001,2024-04-11 00:00:00,Delivered,Mobile App,Ahmedabad,UPI,60,0.15
+O00021,C0399,2025-05-08 00:00:00,Delivered,Mobile App,Lucknow,Cash on Delivery,0,0.25
+O00022,C0037,2025-10-05 00:00:00,Delivered,Marketplace,Coimbatore,Debit Card,40,0
+O00023,C0141,2025-09-05 00:00:00,Delivered,Marketplace,Bengaluru,Debit Card,40,0.15
+O00024,C0232,2024-01-19 00:00:00,Delivered,Marketplace,Lucknow,UPI,40,0.05
+O00025,C0136,2025-03-29 00:00:00,Shipped,Marketplace,Chennai,UPI,80,0.1
+O00003,C0222,2024-12-26 00:00:00,Delivered,Website,Kochi,Debit Card,0,0

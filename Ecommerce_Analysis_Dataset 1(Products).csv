@@ -1,0 +1,61 @@
+﻿product_id,product_name,category,list_price,unit_cost,brand
+P001,Wireless Earbuds,Electronics,454,248,Brand C
+P002,Smartphone,Electronics,16082,12110,Brand A
+P003,Laptop Stand,Electronics,1059,564,Brand A
+P004,Power Bank,Electronics,1537,1147,Brand B
+P005,Bluetooth Speaker,Electronics,2351,1701,Brand C
+P006,USB-C Hub,Electronics,1835,1269,Brand D
+P007,Monitor,Electronics,12709,9198,Brand C
+P008,Keyboard,Electronics,1382,777,Brand C
+P009,Mouse,Electronics,772,520,Brand D
+P010,Webcam,Electronics,3170,2366,Brand B
+P011,Mixer Grinder,Home & Kitchen,2702,1735,Brand E
+P012,Water Bottle,Home & Kitchen,319,231,Brand C
+P013,Cookware Set,Home & Kitchen,2175,1142,Brand C
+P014,Desk Lamp,Home & Kitchen,836,651,Brand A
+P015,Storage Box,Home & Kitchen,613,331,Brand C
+P016,Air Fryer,Home & Kitchen,7072,3810,Brand A
+P017,Bedsheet Set,Home & Kitchen,2059,1163,Brand E
+P018,Vacuum Cleaner,Home & Kitchen,9388,6694,Brand D
+P019,Coffee Maker,Home & Kitchen,3424,2435,Brand D
+P020,Lunch Box,Home & Kitchen,462,305,Brand C
+P021,T-Shirt,Fashion,684,433,Brand E
+P022,Sneakers,Fashion,2767,1874,Brand B
+P023,Backpack,Fashion,1353,933,Brand C
+P024,Denim Jeans,Fashion,1903,1440,Brand D
+P025,Kurta,Fashion,885,567,Brand E
+P026,Watch,Fashion,2434,1348,Brand D
+P027,Sunglasses,Fashion,934,529,Brand D
+P028,Wallet,Fashion,686,448,Brand E
+P029,Handbag,Fashion,2872,1861,Brand D
+P030,Jacket,Fashion,3173,2139,Brand A
+P031,Face Wash,Beauty,270,147,Brand A
+P032,Moisturizer,Beauty,542,418,Brand B
+P033,Sunscreen,Beauty,517,270,Brand A
+P034,Shampoo,Beauty,448,248,Brand E
+P035,Hair Dryer,Beauty,1679,975,Brand B
+P036,Perfume,Beauty,1401,790,Brand B
+P037,Lip Balm,Beauty,120,83,Brand A
+P038,Serum,Beauty,900,526,Brand C
+P039,Body Lotion,Beauty,591,346,Brand D
+P040,Makeup Kit,Beauty,1375,931,Brand E
+P041,SQL for Beginners,Books,466,337,Brand D
+P042,Data Analytics Handbook,Books,654,487,Brand D
+P043,Mystery Novel,Books,363,191,Brand B
+P044,Cookbook,Books,491,284,Brand B
+P045,Personal Finance Guide,Books,431,237,Brand E
+P046,Python Basics,Books,706,425,Brand A
+P047,Power BI Guide,Books,738,515,Brand D
+P048,Historical Fiction,Books,478,368,Brand C
+P049,Children's Book,Books,256,154,Brand E
+P050,Productivity Journal,Books,288,183,Brand C
+P051,Yoga Mat,Sports,816,565,Brand D
+P052,Dumbbell Set,Sports,1609,892,Brand D
+P053,Running Shoes,Sports,3509,2008,Brand B
+P054,Cricket Bat,Sports,1648,1170,Brand E
+P055,Resistance Bands,Sports,502,374,Brand B
+P056,Waterproof Backpack,Sports,2379,1842,Brand C
+P057,Football,Sports,980,636,Brand A
+P058,Cycling Helmet,Sports,1597,1189,Brand A
+P059,Skipping Rope,Sports,215,163,Brand D
+P060,Fitness Tracker,Sports,3803,2190,Brand E
